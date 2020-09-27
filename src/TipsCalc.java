@@ -1,7 +1,11 @@
+// AUTHOR : Lisa GENTIL - September 2015
+
 import java.util.*;
 
-public class TipsCalc {
-    public static void main(String[] args){
+public class TipsCalc 
+{
+    public static void main(String[] args)
+    {
         Scanner myScanDouble = new Scanner(System.in);
         double subtotal;
         double rate;
